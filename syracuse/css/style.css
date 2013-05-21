@@ -77,6 +77,13 @@ button { margin: 0; }
 .github > img { opacity: .3; }
 .github:hover > img { opacity: 1; }
 
+.socials {
+	position: absolute;
+	top: 12px;
+	left: 50%;
+	z-index: 999;
+}
+
 .oldbrowser,
 .lt-ie9 #c,
 .lt-ie9 aside,
@@ -88,9 +95,3 @@ button { margin: 0; }
 	display: block;
 }
 
-.socials {
-	position: absolute;
-	top: 10px;
-	left: 50%;
-	z-index: 999;
-}
