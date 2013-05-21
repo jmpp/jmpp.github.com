@@ -87,3 +87,9 @@ button { margin: 0; }
 .lt-ie9 .oldbrowser {
 	display: block;
 }
+
+.socials {
+	position: absolute;
+	top: 10px;
+	left: 50%;
+}
